@@ -1,10 +1,9 @@
 ### Hola a todos, bienvenidos a mi perfil 👋!
 
-- 🌱 Actualmente me encuentro explorando el mundo del Desarrollo Web enfocado en el front-end. He aprendido HTML, CSS y JavaScript y Bootstrap, conocimiento que apliqué para crear mis primeros proyectos. Ahora estoy enfocado al 100% en volverme experto en Javascript y su librería React.js
-- :memo: Lista de tecnologías que aprendí y continúo aprendiendo: HTML, CSS, Bootstrap. JavaScript, Python y C. ReactJs, Django. 
-- :book: Estudio Licenciatura en Sistemas en la Universidad Nacional del Nordeste de Corrientes, Argentina y soy fundamentalmente autodidacta. Google, los cursos y documentaciones son mis mejores amigos en este nuevo camino del bucle infinito del aprendizaje!
-- :surfer: Me encanta la tecnología, naturaleza y la comida, conocer nuevos lugares y recorrer sus atractivos culturales y gastronómicos, si es acompañado mejor!
-- :computer: Aspiro tener un trabajo que conviva en armonía con lo mencionado más arriba (en concreto los últimos dos puntos) 
-- :coffee: Si buscás alguien para sumar a algun proyecto open-source o remunerado hablame, si es de mi interés me encantaría sumarme y aprender juntos!
+- 🌱 Actualmente me encuentro explorando el mundo del Desarrollo Web. Comencé aprendiendo HTML, CSS, JavaScript y Bootstrap y creé mis primeros proyectos. Actualmente estoy probando nuevas tecnologías para identificar con cuál me siento más cómodo desarrollando: busco practicidad y seguridad a la hora de escribir código.
+- :memo: Lista de tecnologías que aprendí y continúo aprendiendo: PHP con CodeIgniter4, Base de Datos con MySQL y SQL Server, React.js con Redux/Sagas, Python con Django. Y con lo que puse un pie en este camino de desarrollador: HTML, CSS y JavaScript.
+- :book: Estudio Licenciatura en Sistemas en la Universidad Nacional del Nordeste de Corrientes, Argentina y soy fundamentalmente autodidacta.
+- :computer: Aspiro tener un trabajo que me permita hacer home-office, aprender nuevas tecnologías y buenas prácticas y sobre todo tener un equipo de trabajo con buena comunicación y predisposición para ayudarnos entre todos.
+- :coffee: Si buscás alguien para sumar a algun proyecto open-source o remunerado hablame, si es de mi interés me encantaría sumarme y aprender juntos.
 - 📫 Me podés contactar a través de mi mail: sanchez.marcelo2010@gmail.com o perfil en LinkedIn: https://www.linkedin.com/in/marcelo-agustin-sanchez/
 
